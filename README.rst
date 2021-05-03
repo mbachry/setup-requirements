@@ -14,8 +14,8 @@ Usage
 Use ``setup_requirements`` as your build backend in ``pyproject.toml``::
 
   [build-system]
-  requires = ['setuptools>=42', 'wheel', 'setuptools_scm[toml]>=3.4']
-  build-backend = "setup_requirements"
+  requires = ['setuptools>=42', 'wheel', 'setup-requirements']
+  build-backend = 'setup_requirements'
 
 Notes
 -----
