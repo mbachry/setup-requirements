@@ -25,7 +25,7 @@ with pinned dependencies. For libraries use standard
 ``install_requires`` without pins.
 
 The backend exists only because it's not possible to use ``file:`` in
-``setup_requires`` (yet?). See this `github issue`_.
+``install_requires`` (yet?). See this `github issue`_.
 
 .. _github issue: https://github.com/pypa/setuptools/issues/1951
 
