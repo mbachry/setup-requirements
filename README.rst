@@ -1,6 +1,10 @@
 setup-requirements
 ==================
 
+.. image:: https://github.com/mbachry/setup-requirements/actions/workflows/ci.yaml/badge.svg?branch=master
+    :alt: Build status
+    :target: https://github.com/mbachry/setup-requirements/actions
+
 A PEP 517 build backend that automatically adds ``requirements.txt``
 contents to wheel dependencies.
 
